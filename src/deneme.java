@@ -4,6 +4,8 @@ public class deneme {
         for (int i = 0; i <5 ; i++) {
             System.out.println("şampiyon cimbom");
 
+            System.out.println("merhaba ");
+
         }
     }
 }

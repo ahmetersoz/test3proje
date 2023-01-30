@@ -9,4 +9,8 @@ public class deneme {
 
         }
     }
+
+    public void metod (){
+        System.out.println("Merhaba");
+    }
 }
